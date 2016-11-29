@@ -1,0 +1,3 @@
+[run]
+include = django_bootstrap/*
+omit = *migrations*, *tests*
